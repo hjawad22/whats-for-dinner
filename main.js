@@ -16,6 +16,8 @@ function getDish() {
   foodOutputText.innerHTML = `${getRandomIndex(mains)}!`
  } else if (document.getElementById("dessert").checked === true) {
   foodOutputText.innerHTML = `${getRandomIndex(desserts)}!`
+} else if (document.getElementById("entire-meal").checked === true) {
+  foodOutputText.innerHTML = `${getRandomIndex(sides)}, ${getRandomIndex(mains)}, ${getRandomIndex(desserts)}!`
 }
 hideCrockPot()
 }
