@@ -3,7 +3,7 @@
 
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
-I built an application that allows users to select what kind of dish they are looking to make and then suprise the user with a food item they should make. The really neat thing about one of the selections is that the user can be suprised with an entire meal to make. This solves the problem of vast decision making, users do not have to think about what they should make for their meals. This application helps relieve the stress of decision making by helping the user make a decision. 
+I developed a user-friendly application that enables users to choose their preferred dish type and surprises them with a recommended food item. One exciting feature of this app is that users can even receive suggestions for an entire meal to prepare. This resolves the challenge of making choices from a broad range of options, freeing users from the burden of deciding what to cook. By aiding users in making a decision, this application eases the stress of decision-making.
 
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
